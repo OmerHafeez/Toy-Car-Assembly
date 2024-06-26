@@ -1,0 +1,6 @@
+You were orphaned at an early age. To make ends meet, you sought work in a local
+toy car workshop in your city, and your job is to build toy cars from a collection of parts. Each toy
+car needs 4 wheels, 1 car body, and 2 figures of people to be placed inside. You notice that
+sometimes, you’ll get orders of the number of cars to make, but you won’t have the total required
+parts available. To prevent this, you want to find out how many complete toy cars can you make,
+given the total number of wheels, car bodies and figures available at hand currently.
